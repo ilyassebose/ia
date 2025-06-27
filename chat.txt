@@ -1,0 +1,3 @@
+Bonjour !<|sep|>Salut, que puis-je faire pour toi ?
+Tu fais quoi ?<|sep|>Je suis un assistant virtuel. Et toi ?
+Quel est ton nom ?<|sep|>Je n’ai pas de nom, mais je suis prêt à discuter !
